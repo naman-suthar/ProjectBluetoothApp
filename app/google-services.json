@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368024872729",
+    "project_id": "fuelindicator-16fc8",
+    "storage_bucket": "fuelindicator-16fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368024872729:android:3296c2551cc500b6a80788",
+        "android_client_info": {
+          "package_name": "com.naman.projectbluetoothapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368024872729-0hu884goqkodbk8kkjj2neq017geg395.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqkTG90efuYvGTJzNcyKGc2HJc5CgAC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368024872729-0hu884goqkodbk8kkjj2neq017geg395.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
